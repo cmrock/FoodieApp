@@ -14,3 +14,6 @@ Go to the FoodieApp directory.
 ## Note
 This is only the frontend part of FoodieApp web application.
 Backend can not be published publicly.
+
+## Web App Preview
+![result](public/images/foo1.png)
