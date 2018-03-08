@@ -8,7 +8,7 @@ Go to the FoodieApp directory.
 
 1. Install the application: 'npm install'
 2. start the mongodb server
-2. Start the application server: 'node bin/server'
+2. Start the application server: 'node bin/www'
 3. View in browser at 'http://localhost:3000'
 
 ## Note
